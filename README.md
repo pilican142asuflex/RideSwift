@@ -24,4 +24,6 @@ Open the project in Android Studio.
 
 Connect your Firebase project and update the necessary configuration files.
 
+Install the required dependencies: ./gradlew build
+
 Build and run the app on your Android device or emulator.
